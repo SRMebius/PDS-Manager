@@ -1,0 +1,13 @@
+#files
+.project
+.pydevproject
+PDS Manager.rar
+creat the pds_pkl and reg.dll files.py
+PandasModel.py
+Register.py
+
+#folders
+.settings/
+__pycache__/
+
+
