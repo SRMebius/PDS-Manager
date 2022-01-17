@@ -5,9 +5,10 @@ PDS Manager.rar
 creat the pds_pkl and reg.dll files.py
 PandasModel.py
 Register.py
+main.spec
 
 #folders
 .settings/
 __pycache__/
-
+build/
 
