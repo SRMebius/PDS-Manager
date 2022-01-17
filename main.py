@@ -12,6 +12,7 @@ from PySide2.QtUiTools import QUiLoader
 from PySide2.QtGui import QIcon
 from PySide2.QtCore import Qt
 
+import resource
 
 class Interface:
     
